@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @simonRoux-pro
+# 👋 Hi, I’m Simon
 
 - 👀 I’m interested in **project management**, **Agile methodologies**, and **technical development**.
 - 🌱 I’m currently learning **Node.js** and **React Native** to expand my skills in mobile development.
